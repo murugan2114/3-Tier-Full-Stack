@@ -5,12 +5,12 @@ metadata:
   name: yelp-camp-secrets
 type: Opaque
 data:
-  CLOUDINARY_CLOUD_NAME= dqdatvogb
-  CLOUDINARY_KEY= 785725349625679
-  CLOUDINARY_SECRET= NHrm9zhgrkJ3BxIDQvUM4dDpGGM
-  MAPBOX_TOKEN= sk.eyJ1IjoibXVydWdhbjIxMDciLCJhIjoiY2x3a2RpZnhoMTVyYTJucW1oeWZybjBvZiJ9.kE2R6V1SwzCnivSSQBenoA
-  DB_URL= "mongodb+srv://muruganandam2107:zOmCRY9A7ydFDOuS@murugan.zcpcbav.mongodb.net/?retryWrites=true&w=majority&appName=Murugan"
-  SECRET= guruvitech
+  CLOUDINARY_CLOUD_NAME= ZHFkYXR2b2diCg==
+  CLOUDINARY_KEY= Nzg1NzI1MzQ5NjI1Njc5Cg==
+  CLOUDINARY_SECRET= TkhybTl6aGdya0ozQnhJRFF2VU00ZERwR0dNCg==
+  MAPBOX_TOKEN= c2suZXlKMUlqb2liWFZ5ZFdkaGJqSXhNRGNpTENKaElqb2lZMngzYTJScFpuaG9NVFZ5WVRKdWNXMW9lV1p5YmpCdlppSjkua0UyUjZWMVN3ekNuaXZTU1FCZW5vQQo=
+  DB_URL= bW9uZ29kYitzcnY6Ly9tdXJ1Z2FuYW5kYW0yMTA3OnpPbUNSWTlBN3lkRkRPdVNAbXVydWdhbi56Y3BjYmF2Lm1vbmdvZGIubmV0Lz9yZXRyeVdyaXRlcz10cnVlJnc9bWFqb3JpdHkmYXBwTmFtZT1NdXJ1Z2FuCg==
+  SECRET= Z3VydXZpdGVjaAo=
 
 ---
 apiVersion: apps/v1
