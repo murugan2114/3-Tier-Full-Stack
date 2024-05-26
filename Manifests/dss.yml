@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: adijaiswal/campa:latest
+          image: 100421074466.dkr.ecr.us-east-1.amazonaws.com/my-docker-repo:latest
           ports:
             - containerPort: 3000
           env:
